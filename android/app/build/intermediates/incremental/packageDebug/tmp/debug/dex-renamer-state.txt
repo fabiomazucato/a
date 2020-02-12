@@ -1,0 +1,4 @@
+#Sat Feb 08 20:39:57 AMT 2020
+base.0=/Users/milena/Documents/freelas/photoguest/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>61099600-14DF-4EB9-B101-0DE3480CA42D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61099600-14DF-4EB9-B101-0DE3480CA42D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoguest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoguest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace photoguest with scheme photoguest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600881689.81963205</real>
+			<key>timeStoppedRecording</key>
+			<real>600881691.02715003</real>
+			<key>title</key>
+			<string>Building workspace photoguest with scheme photoguest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>61099600-14DF-4EB9-B101-0DE3480CA42D</string>
+		</dict>
+		<key>B86376E6-5AC5-4E31-A641-0F03EED37DBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B86376E6-5AC5-4E31-A641-0F03EED37DBB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>photoguest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>photoguest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace photoguest with scheme photoguest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>601134462.28108203</real>
+			<key>timeStoppedRecording</key>
+			<real>601134466.77168596</real>
+			<key>title</key>
+			<string>Building workspace photoguest with scheme photoguest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B86376E6-5AC5-4E31-A641-0F03EED37DBB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
